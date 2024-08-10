@@ -6,4 +6,4 @@ When applying our IntC attacks to existing HPE techniques, please follow the bel
 
 1. Config the environment following their instructions.
 2. Involve our implementation codes `IntC.py`.
-3. Call our function (in `IntC.py`) after loading the clean data for data poisoning.
+3. Call our function `InvisibilityCloak()` (as defined in `IntC.py`) after loading the clean data for data poisoning.
